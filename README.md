@@ -7,9 +7,12 @@
 <h2 align="center"> Desafio 02 : Componentizando a aplicação ( Projeto WatchMe ) </h2>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/brunoemferreira/rocketseat-ignite-react-desafio-componentizando-a-aplicacao?color=%2304D361">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/brunoemferreira/rocketseat-ignite-react-desafio-componentizando-a-aplicacao">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brunoemferreira/rocketseat-ignite-react-desafio-componentizando-a-aplicacao">
+  <a href="https://rocketseat.com.br">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2306b656?style=flat-square">
+  </a>
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/brunoemferreira/rocketseat-ignite-react-desafio-componentizando-a-aplicacao?color=%2304D361?style=flat-square">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/brunoemferreira/rocketseat-ignite-react-desafio-componentizando-a-aplicacao?style=flat-square">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brunoemferreira/rocketseat-ignite-react-desafio-componentizando-a-aplicacao?style=flat-square">
 </p>
 
 ## 🚀 Sobre o Projeto
@@ -61,6 +64,12 @@ $ npm dev
 ## 🌐 Referências
 
 [Desafio 02 - WatchMe](https://www.notion.so/Desafio-02-Componentizando-a-aplica-o-b9f0f025c95b437699d0c3115f55b0f1) - Notion com todas as informações.
+
+<br>
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
 
 ---
 
